@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm Abir, I like programming , and I'm also a software devoloper.
+You can known more about me on youtube : https://youtube.com/c/AbirAbedinKhan
 <!--
 **abirabedinkhan/abirabedinkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
