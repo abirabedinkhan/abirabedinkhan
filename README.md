@@ -7,6 +7,6 @@
 - 🔭 I’m currently working on [Search Engines](https://searchbd.net/)
 - 🌱 I’m currently learning C++
 
-[![Abirs's github stats](https://github-readme-stats.vercel.app/api?username=abirabedinkhan&show_icons=true)](https://youtube.com/c/AbirAbedinKhan)
+[![Abirs's github stats](https://github-readme-stats.vercel.app/api?username=abirabedinkhan&show_icons=true&theme=radical)](https://youtube.com/c/AbirAbedinKhan)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abirabedinkhan&layout=compact)](https://youtube.com/c/AbirAbedinKhan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abirabedinkhan&layout=compact&theme=radical)](https://youtube.com/c/AbirAbedinKhan)
