@@ -4,7 +4,6 @@
  <p align="center">A passionate frontend and backend developer from Bangladesh</p>
 </p>
 
-#My Works
 - 🔭 I’m currently working on [Search Engines](https://searchbd.net/)
 - 🌱 I’m currently learning C++
 
