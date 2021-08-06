@@ -10,5 +10,6 @@
 
 ## Stats
 [![Abirs's github stats](https://github-readme-stats.vercel.app/api?username=abirabedinkhan&show_icons=true&theme=radical)](https://youtube.com/c/AbirAbedinKhan)
-<br/>
+
+## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abirabedinkhan&layout=compact&theme=radical)](https://youtube.com/c/AbirAbedinKhan)
