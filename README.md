@@ -7,6 +7,8 @@
 ## My Activities
 - 🔭 I’m currently working on [Search Engines](https://searchbd.net/)
 - 🌱 I’m currently learning C++, C, go
+- 📫 How to reach me [abirabedinkhan@yahoo.com](mailto:abirabedinkhan@yahoo.com)
+- ⚡ Fun fact I think, I'm Funny
 
 ## Stats
 [![Abirs's github stats](https://github-readme-stats.vercel.app/api?username=abirabedinkhan&show_icons=true&theme=radical)](https://youtube.com/c/AbirAbedinKhan)
