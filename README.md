@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" style="border-radius: 50%;" src="https://raw.githubusercontent.com/abirabedinkhan/abirabedinkhan/main/bg.png" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://raw.githubusercontent.com/abirabedinkhan/abirabedinkhan/main/bg.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Abir Abedin Khan</h2>
  <p align="center">A passionate full-stack developer from Bangladesh</p>
 </p>
