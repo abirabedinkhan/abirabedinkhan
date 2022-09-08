@@ -15,8 +15,6 @@
 - 📫 How to reach me [abirabedinkhan@yahoo.com](mailto:abirabedinkhan@yahoo.com)
 - ⚡ Fun fact I think, I'm Funny
 
-## Stats
-[![Abirs's github stats](https://github-readme-stats.vercel.app/api?username=abirabedinkhan&show_icons=true&theme=radical)](https://youtube.com/c/AbirAbedinKhan)
-
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abirabedinkhan&layout=compact&theme=radical)](https://youtube.com/c/AbirAbedinKhan)
+## Statistics
+|![My top language](https://github-readme-stats.vercel.app/api/top-langs/?username=abirabedinkhan&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true)|![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abirabedinkhan&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true)|
+|-|-|
