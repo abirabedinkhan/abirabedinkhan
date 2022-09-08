@@ -4,12 +4,9 @@
  <p align="center">A passionate full-stack developer from Bangladesh</p>
 </p>
 
-## Profile Info
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abirabedinkhan&label=Profile%20views&color=0e75b6&style=flat" alt="abirabedinkhan" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abirabedinkhan&theme=onedark" alt="abirabedinkhan" /></a> </p>
-
-## My Activities
+# Hi there 👋
+Hey! My name is Abir, and I make things, do things, make more things and do more things!
+You may notice that I dont have many repositories, but that is because most of my work is done for my own project. I use them in my bigger projects which useally don't go opensource.
 - 🔭 I’m currently working on [Search Engines](https://searchbd.net/)
 - 🌱 I’m currently learning C++, C, go
 - 📫 How to reach me [abirabedinkhan@yahoo.com](mailto:abirabedinkhan@yahoo.com)
