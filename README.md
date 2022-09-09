@@ -8,7 +8,7 @@
 Hey! My name is Abir, and I make things, do things, make more things and do more things!
 You may notice that I dont have many repositories, but that is because most of my work is done for my own project. I use them in my bigger projects which useally don't go opensource.
 - 🔭 I’m currently working on [Search Engines](https://searchbd.net/)
-- 🌱 I’m currently learning C++, C, go
+- 🌱 I’m currently learning C, go, Javascript
 - 📫 How to reach me [abirabedinkhan@yahoo.com](mailto:abirabedinkhan@yahoo.com)
 - ⚡ Fun fact I think, I'm Funny
 
