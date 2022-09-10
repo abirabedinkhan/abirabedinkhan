@@ -22,7 +22,7 @@ I use a range of different tools and programming languages to do so, but I mainl
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="64" height="64"/>&nbsp;
 
-Not too good at Golang, C and Javascript still learning :D
+Not too good at Golang, C and Javascript still learning :D. I currently work with Python as my primary languages. I also use lots of C at work which is a language I like a lot as well. Currently, I am just trying to branch out a bit more to other programming languages such as Javascript, Golang and Arduino. As far as web development goes, I really like using CSS3. I started developing my web projects on it years ago and I still use it today.
 
 ## Tools Used
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="64" height="64"/>&nbsp;
