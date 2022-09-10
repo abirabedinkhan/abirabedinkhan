@@ -2,9 +2,8 @@
  <img width="100px" src="https://raw.githubusercontent.com/abirabedinkhan/abirabedinkhan/main/bg.png" align="center" alt="GitHub Readme Stats" />
  <h3 align="center">Abir Abedin Khan</h3>
  <p align="center">A passionate full-stack developer from Bangladesh</p>
- [Profile views](https://gpvc.arturio.dev/abirabedinkhan)
 </p>
-
+ ![Profile views](https://gpvc.arturio.dev/abirabedinkhan)
 # Hi there 👋
 Hey! My name is Abir, and I make things, do things, make more things and do more things!
 I use a range of different tools and programming languages to do so, but I mainly focus on Python. I've had a few projects go opensource in the past, but most of my work is done for my own project.
