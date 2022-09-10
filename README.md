@@ -2,6 +2,7 @@
  <img width="100px" src="https://raw.githubusercontent.com/abirabedinkhan/abirabedinkhan/main/bg.png" align="center" alt="GitHub Readme Stats" />
  <h3 align="center">Abir Abedin Khan</h3>
  <p align="center">A passionate full-stack developer from Bangladesh</p>
+ ![Profile views](https://gpvc.arturio.dev/abirabedinkhan)
 </p>
 
 # Hi there 👋
