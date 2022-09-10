@@ -3,7 +3,7 @@
  <h3 align="center">Abir Abedin Khan</h3>
  <p align="center">A passionate full-stack developer from Bangladesh</p>
 </p>
- ![Profile views](https://gpvc.arturio.dev/abirabedinkhan)
+ 
 # Hi there 👋
 Hey! My name is Abir, and I make things, do things, make more things and do more things!
 I use a range of different tools and programming languages to do so, but I mainly focus on Python. I've had a few projects go opensource in the past, but most of my work is done for my own project.
@@ -41,3 +41,5 @@ I do most of my work here. I spend my days learning some new tech or making. I'v
 ## Statistics
 |![My top language](https://github-readme-stats.vercel.app/api/top-langs/?username=abirabedinkhan&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true)|![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abirabedinkhan&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true)|
 |-|-|
+
+![Profile views](https://gpvc.arturio.dev/abirabedinkhan)
