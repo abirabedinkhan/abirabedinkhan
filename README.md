@@ -15,8 +15,8 @@ You may notice that I dont have many repositories, but that is because most of m
 ## Programming Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="64" height="64"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="64" height="64"/>&nbsp;
