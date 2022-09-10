@@ -6,7 +6,8 @@
 
 # Hi there 👋
 Hey! My name is Abir, and I make things, do things, make more things and do more things!
-You may notice that I dont have many repositories, but that is because most of my work is done for my own project. I use them in my bigger projects which useally don't go opensource.
+I use a range of different tools and programming languages to do so, but I mainly focus on Python. I've had a few projects go opensource in the past, but most of my work is done for my own project.
+
 - 🔭 I’m currently working on [Search Engines](https://searchbd.net/)
 - 🌱 I’m currently learning C, Golang, Javascript
 - 📫 How to reach me [abirabedinkhan@yahoo.com](mailto:abirabedinkhan@yahoo.com)
