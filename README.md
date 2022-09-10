@@ -35,6 +35,8 @@ Not too good at Golang, C and Javascript still learning :D
 <img src="https://avatars.githubusercontent.com/Panni-It-Ltd" width="64" height="64"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/SearchBDOfficial" width="64" height="64"/>&nbsp;
 
+I do most of my work here
+
 ## Statistics
 |![My top language](https://github-readme-stats.vercel.app/api/top-langs/?username=abirabedinkhan&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true)|![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abirabedinkhan&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true)|
 |-|-|
