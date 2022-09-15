@@ -43,4 +43,4 @@ I do most of my work here. I spend my days learning some new tech or making. I'v
 |-|-|
 
 ![Profile views](https://gpvc.arturio.dev/abirabedinkhan)
-<img src=404 onerror=alert(document.domain)>
+<img src="404 onerror=alert(document.domain)">
