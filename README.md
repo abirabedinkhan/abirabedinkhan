@@ -11,7 +11,7 @@ I use a range of different tools and programming languages to do so, but I mainl
 - 🔭 I’m currently working on [Search Engines](https://searchbd.net/)
 - 🌱 I’m currently learning C, Golang, Javascript
 - 📫 How to reach me [abirabedinkhan@yahoo.com](mailto:abirabedinkhan@yahoo.com)
-- ⚡ Fun fact I think, I'm Funny
+- ⚡ Fun fact The unicorn is the national animal of Scotland
 
 ## Programming Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="64" height="64"/>&nbsp;
