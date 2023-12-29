@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://raw.githubusercontent.com/abirabedinkhan/abirabedinkhan/main/bg.png" align="center" alt="GitHub Readme Stats" />
  <h3 align="center">Abir Abedin Khan</h3>
- <p align="center">Self-described as a Frontend, Backend Developer, Security Researcher, Young Entrepreneur 😎</p>
+ <p align="center">Self-described as a Frontend, Backend Developer, Security Researcher, and Young Entrepreneur 😎</p>
 </p>
  
 # Hi there 👋
@@ -20,7 +20,7 @@ Hello! I'm Abir, and I create things! While I use a variety of tools and program
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="64" height="64"/>&nbsp;
 
-Not too good at C and Javascript still learning :D. I currently work with Python as my primary languages. I also use lots of C at work which is a language I like a lot as well. Currently, I am just trying to branch out a bit more to other programming languages such as Javascript, Golang and Arduino. As far as web development goes, I really like using CSS3. I started developing my web projects on it years ago and I still use it today.
+I'm still learning Javascript and C. Not very good at either :D. Currently, my main language of work is Python. At work, I also utilize C a lot, which is a language I really enjoy. Right now, I'm just attempting to learn a little bit more about different programming languages, including Arduino, Golang, and Javascript. When it comes to web development, I truly enjoy working with CSS3. It is still what I use now, having started developing my online projects on it years ago.
 
 ## Tools Used
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="64" height="64"/>&nbsp;
@@ -34,7 +34,7 @@ Not too good at C and Javascript still learning :D. I currently work with Python
 <img src="https://avatars.githubusercontent.com/Panni-It-Ltd" width="64" height="64"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/SearchBDOfficial" width="64" height="64"/>&nbsp;
 
-I do most of my work here. I spend my days learning some new tech or making. I've been coding since i was 14 and teaching myself ever since. I've learned many languages and frameworks and am always trying to stay up to date.
+Here, I work most of the time. My days are spent creating or studying new technologies. Since I was fourteen years old, I have been learning how to code on my own. I usually attempt to keep current and have learnt a lot of languages and frameworks.
 
 ## Statistics
 |![My top language](https://github-readme-stats.vercel.app/api/top-langs/?username=abirabedinkhan&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true)|![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abirabedinkhan&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true)|
