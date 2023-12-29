@@ -5,8 +5,7 @@
 </p>
  
 # Hi there 👋
-Hey! My name is Abir, and I make things, do things, make more things, and do more things!
-I use a range of different tools and programming languages to do so, but I mainly focus on Python. I've had a few projects go open-source in the past, but most of my work is done for my own project.
+Hello! I'm Abir, and I create things! While I use a variety of tools and programming languages to accomplish this, Python is my primary focus. Although I work mostly on my own projects, I have had a few projects go open-source in the past.
 
 - 🔭 I’m currently working on [Search Engines](https://searchbd.net/)
 - 🌱 I’m currently learning C, Rust, Javascript
