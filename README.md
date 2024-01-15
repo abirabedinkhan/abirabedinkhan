@@ -9,7 +9,7 @@ Hello! I'm Abir, and I create things! While I use a variety of tools and program
 
 - 🔭 I’m currently working on [Search Engines](https://searchbd.net/)
 - 🌱 I’m currently learning C, Rust, Javascript
-- 📫 How to reach me [abirabedinkhan@yahoo.com](mailto:abirabedinkhan@yahoo.com)
+- 📫 How to reach me [contact@abirak.me](mailto:contact@abirak.me)
 - ⚡ Fun fact The unicorn is the national animal of Scotland.
 
 ## Programming Languages
