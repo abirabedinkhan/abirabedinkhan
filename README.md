@@ -23,6 +23,7 @@ Hello! I'm Abir, and I create things! While I use a variety of tools and program
 I'm still learning Javascript and C. Not very good at either :D. Currently, my main language of work is Python. At work, I also utilize C a lot, which is a language I really enjoy. Right now, I'm just attempting to learn a little bit more about different programming languages, including Arduino, Golang, and Javascript. When it comes to web development, I truly enjoy working with CSS3. It is still what I use now, having started developing my online projects on it years ago.
 
 ## Tools Used
+<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="64" height="64"/>&nbsp;
